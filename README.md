@@ -1,0 +1,4 @@
+ReDCuBeLauncher
+===============
+
+Launcher for minecraft
